@@ -1,0 +1,9 @@
+speechrecognition
+pyttsx3
+requests
+pywhatkit
+spotipy
+google-generative-ai
+numpy
+sounddevice
+emoji

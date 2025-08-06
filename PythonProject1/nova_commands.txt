@@ -1,0 +1,36 @@
+Basic commands you can try:
+"Nova, open WhatsApp"
+(Nova will open your installed WhatsApp desktop app.)
+
+"Nova, open Spotify"
+(Nova will launch the Spotify app.)
+
+"Nova, play some music" or "Nova, play song"
+(Nova will ask you which song to play on Spotify.)
+
+"Nova, pause the music" / "Nova, resume the music"
+(To pause or resume Spotify playback.)
+
+"Nova, what's the weather in [city name]"
+(Nova will fetch weather info for that city.)
+
+"Nova, send a WhatsApp message"
+(Nova will prompt you for the phone number and message text to send.)
+
+"Nova, who are you?" or "Nova, what can you do?"
+(Nova will tell you about its capabilities.)
+
+"Nova, hello" or "Nova, hi"
+(Friendly greetings.)
+
+"Nova, quit" or "Nova, exit" or "Nova, bye"
+(Nova will say goodbye and stop.)
+
+If you want to open other apps:
+Just say "Nova, open [app name]", for example:
+
+"Nova, open Calculator"
+
+"Nova, open Notepad"
+
+"Nova, open Chrome"
